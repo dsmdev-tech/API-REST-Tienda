@@ -17,7 +17,7 @@ Esta es una API RESTful desarrollada en PHP siguiendo el patrón MVC. Implementa
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/dsmdev-tech/API-REST-Tienda.git
    cd tu_repositorio
    ```
 2. Instalar dependencias con Composer:
